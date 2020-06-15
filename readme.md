@@ -1,2 +1,2 @@
-### gap Scrapper
-- Scrapper for https://www.gap.com
+### Stylish Scrapper
+- Scrapper for https://stylishop.com
