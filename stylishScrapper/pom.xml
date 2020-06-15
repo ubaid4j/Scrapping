@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.scrapper</groupId>
-	<artifactId>gapScrapper</artifactId>
+	<artifactId>stylishScrapper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gapScrapper</name>
-	<description>Scrapper for https://www.gap.com</description>
+	<name>stylishScrapper</name>
+	<description>Scrapper for https://stylishop.com</description>
 
 	<properties>
 		<java.version>14</java.version>
