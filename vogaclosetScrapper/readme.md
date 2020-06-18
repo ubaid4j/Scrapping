@@ -5,4 +5,4 @@
 
 ### How to run
 - mvn spring-boot:run
-- After completing, it will generate db having name stylish_db
+- After completing, it will generate db having name vogacloset_db
